@@ -154,4 +154,4 @@ Made with :heart: by <a href="https://github.com/Stergo-dev" target="_blank">Dev
 
 <a href="#top">Back to top</a>
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=Stergo-dev.vscode-simple-readme)*
