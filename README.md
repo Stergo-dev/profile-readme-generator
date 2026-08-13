@@ -10,32 +10,32 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  <a href="https://github.com/Stergo-dev/profile-readme-generator/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/Stergo-dev/profile-readme-generator?" alt="Badge showing the total of project forks"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+  <a href="https://github.com/Stergo-dev/profile-readme-generator/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/Stergo-dev/profile-readme-generator?" alt="Badge showing the total of project stars"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  <a href="https://github.com/Stergo-dev/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/Stergo-dev/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+  <a href="https://github.com/Stergo-dev/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/Stergo-dev/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+  <a href="https://github.com/Stergo-dev/profile-readme-generator/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/Stergo-dev/profile-readme-generator?" alt="Badge showing the total of project issues"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+  <a href="https://github.com/Stergo-dev/profile-readme-generator/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/Stergo-dev/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
   </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  <a href="https://github.com/Stergo-dev/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/Stergo-dev/profile-readme-generator?color=f85149">
   </a>
 </p>
 
@@ -59,9 +59,7 @@ Are you tired of manually editing your GitHub profile or missing out on the amaz
 **Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
 
 
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
+
 
 https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
 
@@ -154,4 +152,3 @@ Made with :heart: by <a href="https://github.com/Stergo-dev" target="_blank">Dev
 
 <a href="#top">Back to top</a>
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=Stergo-dev.vscode-simple-readme)*
